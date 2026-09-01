@@ -1,6 +1,4 @@
----
-title: " "
----
+
 # Twin-Boundary Framework for Additive Manufacturing
 
 An industrial decision-tree designed to classify part designs and distinguish additive manufacturing from hybrid additive manufacturing is given.
